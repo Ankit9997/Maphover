@@ -3,7 +3,7 @@ import {Button, Col, Container, Form, Row,Alert} from "react-bootstrap";
 export default function Welcome() {
     return (
         <div>
-            <Alert variant="success">
+            <Alert variant="primary">
   <Alert.Heading>Hey, nice to see you</Alert.Heading>
   <p>
     Aww yeah, you successfully read this important alert message. This example

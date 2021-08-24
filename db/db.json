@@ -1,0 +1,11 @@
+{
+    "resturant": [
+      { "id": 1, "name": "resto_sweet", "address": "sector 1", "rating":"4.5" ,"email":"resto_sweet@gmail.com" },
+      { "id": 2, "name": "omsweet", "address": "sector 2", "rating":"4.2" ,"email":"omsweet@gmail.com" },
+      { "id": 3, "name": "bikkagain", "address": "sector 3", "rating":"3.5" ,"email":"bikkagain@gmail.com" },
+      { "id": 4, "name": "KFC", "address": "sector 3", "rating":"2.5" ,"email":"KFC@gmail.com" },
+      { "id": 5, "name": "MKD", "address": "sector 4", "rating":"12.5" ,"email":"MKD@gmail.com" }
+
+    ]
+    
+  }
